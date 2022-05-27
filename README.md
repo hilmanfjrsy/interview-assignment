@@ -2,7 +2,7 @@
 
 This project contains the source code to a simple mini-todo list that helps people keeps track of their tasks. Some of the features are not yet fully functioning.
 
-## 1. Your first task is to find what causes it not to work and fix them.
+## 1. Your first task is to find what causes it not to work and fix them. 
 
 Minimum working features required:
 
