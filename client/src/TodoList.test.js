@@ -1,6 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
-import TodoList from "./TodoList";
+import TodoList from "./Components/TodoList";
 
 test("Renders Todo List Correctly", async () => {
   render(<TodoList tasks={["masak ikan", "minum air"]} />);
